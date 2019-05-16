@@ -20,7 +20,7 @@ JEWEL hadron level | pThat > 80, recoil on and off, various centrality bins (eve
 JEWEL hadron level (vac) | pThat > 80, dijet | 5k per file | /eos/project/j/jetquenching/www/samples/jewelvac
 JEWEL parton level | pThat > 80, recoil off, various centrality bins, dijet | 5k per file | /eos/project/j/jetquenching/www/samples/jewelparton
 QPYTHIA hadron level | hydro medium central events and vacuum, flat pT | 5k per file | /eos/project/j/jetquenching/www/samples/qpythiaHyd
-QPYTHIA parton level | !PQM central events, pThat=120 | 1k per file | /eos/project/j/jetquenching/www/samples/qpythiaQhat1parton/pu14/pthat120
+QPYTHIA parton level | PQM central events, pThat=120 | 1k per file | /eos/project/j/jetquenching/www/samples/qpythiaQhat1parton/pu14/pthat120
 PYQUEN | small angle radiation | ? | /eos/project/j/jetquenching/www/samples/pyquen
 Thermal background | Various background densities | 10k per file | /eos/project/j/jetquenching/www/samples/thermal/
 
