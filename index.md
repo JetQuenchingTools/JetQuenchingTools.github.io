@@ -14,5 +14,5 @@
 
 # Other links
 
-- Gavin's code/info on declustering [MC study of Lund plane through jet declustering](https://gitlab.cern.ch/gsalam/2017-lund-from-MC)
+- Gavin's code/info: [MC study of Lund plane through jet declustering](https://gitlab.cern.ch/gsalam/2017-lund-from-MC)
 
