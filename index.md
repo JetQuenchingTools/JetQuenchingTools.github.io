@@ -7,3 +7,12 @@
 
 - [https://github.com/JetQuenchingTools](https://github.com/JetQuenchingTools)
 
+# MC samples
+
+- [http://jetquenchingtools.web.cern.ch/JetQuenchingTools/](http://jetquenchingtools.web.cern.ch/JetQuenchingTools/)
+- On EOS in `/eos/project/j/jetquenching/www`
+
+# Other links
+
+- Gavin's code/info on declustering [MC study of Lund plane through jet declustering](https://gitlab.cern.ch/gsalam/2017-lund-from-MC)
+
