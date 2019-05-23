@@ -1,3 +1,9 @@
+# Synopsis
+
+ - Go to [https://jetquenchingtools.github.io/](https://jetquenchingtools.github.io/) for the actual page.
+ - Add markdown (or other supporting) files here (remember to x-link from the index.md) 
+ - Below some default information by GitHub...
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JetQuenchingTools/JetQuenchingTools.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
